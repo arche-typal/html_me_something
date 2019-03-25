@@ -58,13 +58,18 @@ header p {
 
 nav {
 	text-align: center;
-	
+}
+
+nav a {
+	text-decoration: none;
+	color: #7e8884;
 }
 
 ul {
 	margin: 30px auto;
 	padding: 3px 20px;
 	text-align: center;
+
 }
 
 li {
