@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+}
+
+
+li {
+	display: inline-block;
+}
+
+section {
+	text-align: center;
+	width: 600px;
+	border: 3px grey solid;
+}
+
+img {
+	height:500px;
+	float: center;
+}
+
+p {
+	
+}
