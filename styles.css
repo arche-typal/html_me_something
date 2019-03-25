@@ -78,10 +78,10 @@ li {
 }
 
 section {
-	min-height: 600px;
+	min-height: 550px;
 	min-width: 550px;
 	border-bottom: 5px #dff1e9 solid;
-	padding: 40px 30px 30px 30px;
+	padding: 25px 30px 30px 0px;
 	margin: 0px 0px 15px 450px;
 	font-family: 'Montserrat', sans-serif;
 	text-align: right;
@@ -101,7 +101,7 @@ section p {
 }
 
 img {
-	height:500px;
+	height:450px;
 	float: right;
 	padding: 20px 20px 20px 70px;
 }
